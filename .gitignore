@@ -1,3 +1,4 @@
-.vscode/
+# do not track build files
 *.out
 *.exe
+*/build/
