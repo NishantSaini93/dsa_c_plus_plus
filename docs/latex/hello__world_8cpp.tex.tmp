@@ -1,0 +1,46 @@
+\doxysection{/home/nishant/\+Desktop/dsa/dsa\+\_\+c\+\_\+plus\+\_\+plus/c\+\_\+plus\+\_\+plus\+\_\+basics/hello\+\_\+world.cpp File Reference}
+\hypertarget{hello__world_8cpp}{}\label{hello__world_8cpp}\index{/home/nishant/Desktop/dsa/dsa\_c\_plus\_plus/c\_plus\_plus\_basics/hello\_world.cpp@{/home/nishant/Desktop/dsa/dsa\_c\_plus\_plus/c\_plus\_plus\_basics/hello\_world.cpp}}
+
+
+A simple C++ program that demonstrates basic output operations.  
+
+
+{\ttfamily \#include $<$iostream$>$}\newline
+Include dependency graph for hello\+\_\+world.\+cpp\+:
+% FIG 0
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{hello__world_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}{main}} ()
+\begin{DoxyCompactList}\small\item\em Entry point of the program. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+A simple C++ program that demonstrates basic output operations. 
+
+This program prints "{}\+Hello World!"{} and an additional message to the console. It serves as an introductory example for C++ syntax, usage of the iostream library, and the structure of a basic C++ application.
+
+\begin{DoxyAuthor}{Author}
+Nishant Saini 
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+04 Aug 2025 
+\end{DoxyDate}
+
+
+\doxysubsection{Function Documentation}
+\Hypertarget{hello__world_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}\label{hello__world_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4} 
+\index{hello\_world.cpp@{hello\_world.cpp}!main@{main}}
+\index{main@{main}!hello\_world.cpp@{hello\_world.cpp}}
+\doxysubsubsection{\texorpdfstring{main()}{main()}}
+{\footnotesize\ttfamily int main (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Entry point of the program. 
+
+This function starts the execution of the program. It prints "{}\+Hello World!"{} and an additional message to the standard output.
+
+\begin{DoxyReturn}{Returns}
+int Returns 0 upon successful execution. 
+\end{DoxyReturn}
